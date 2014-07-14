@@ -46,7 +46,7 @@ define('FOPEN_READ_WRITE_CREATE_STRICT',        'x+b');
 |
 */
 define('TABLE_CONSTANT_PREFIX',             'TABLE_');
-define('TABLE_PREFIX',                      '');
+define('TABLE_PREFIX',                      'jl_');
 define(TABLE_CONSTANT_PREFIX.'USERS',       TABLE_PREFIX.'users');
 define(TABLE_CONSTANT_PREFIX.'ADMINS',      TABLE_PREFIX.'admins');
 define(TABLE_CONSTANT_PREFIX.'ORDERS',      TABLE_PREFIX.'orders');
